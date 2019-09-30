@@ -1,6 +1,6 @@
 import socket
 
-host= '10.5.1.16'
+host= '10.5.1.16' //my system ipconfig
 port= 5000
 
 server_socket = socket.socket()
